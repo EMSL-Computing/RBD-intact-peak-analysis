@@ -32,4 +32,4 @@ Output:
 ### Reference
 
 If you use this code please cite:
-Wilson et al. "Online Hydrophilic Interaction Chromatography (HILIC) Enhanced Top-Down Mass Spectrometry Characterization of SARS-Cov-2 Spike Receptor Binding Domain".
+Wilson et al. "Online Hydrophilic Interaction Chromatography (HILIC) Enhanced Top-Down Mass Spectrometry Characterization of SARS-Cov-2 Spike Receptor Binding Domain". Anal. Chem. 2022, 94, 15, 5909–5917. https://doi.org/10.1021/acs.analchem.2c00139.
